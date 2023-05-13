@@ -1,0 +1,70 @@
+[
+  {
+    "caminhao": {
+      "tipo_caminhao": "CARRO",
+      "placa": "FIORINO",
+      "fabricante": "FIAT",
+      "modelo": "FIORINO",
+      "vel_media": 60
+    },
+    "capacidade": {
+      "cubagem": "1.5",
+      "kg": "500"
+    },
+    "combustivel_pkm": {
+      "cidade": "9",
+      "estrada": "12"
+    }
+  },
+  {
+    "caminhao": {
+      "tipo_caminhao": "VAN",
+      "placa": "DUCATO",
+      "fabricante": "FIAT",
+      "modelo": "DUCATO",
+      "vel_media": "55"
+    },
+    "capacidade": {
+      "cubagem": "3",
+      "kg": "1000"
+    },
+    "combustivel_pkm": {
+      "cidade": "7",
+      "estrada": "10"
+    }
+  },
+  {
+    "caminhao": {
+      "tipo_caminhao": "VUC",
+      "placa": "EXPRESS",
+      "fabricante": "VOLKSWAGEN",
+      "modelo": "VW EXPRESS DRC 4X2",
+      "vel_media": "50"
+    },
+    "capacidade": {
+      "cubagem": "17",
+      "kg": "1500"
+    },
+    "combustivel_pkm": {
+      "cidade": "5",
+      "estrada": "7"
+    }
+  },
+  {
+    "caminhao": {
+      "tipo_caminhao": "TOCO",
+      "placa": "TOCO",
+      "fabricante": "TTT",
+      "modelo": "TTT",
+      "vel_media": "50"
+    },
+    "capacidade": {
+      "cubagem": "17",
+      "kg": "6500"
+    },
+    "combustivel_pkm": {
+      "cidade": "5",
+      "estrada": "7"
+    }
+  }
+]
